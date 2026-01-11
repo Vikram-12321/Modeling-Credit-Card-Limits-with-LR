@@ -1,7 +1,7 @@
 # STA302 Final Project — Predicting Credit-Card Limits from Demographic and Behavioural Data
 
 **Authors:** Vikram Bhojanala & Ellie Clarke  
-**Date:** June 17, 2025 :contentReference[oaicite:0]{index=0}
+**Date:** June 17, 2025 
 
 ## Overview
 This project investigates the question:
@@ -47,5 +47,3 @@ Final model selected using **backward stepwise selection with BIC** on the clean
 Performance metrics reported for the final chosen model set:
 - BIC-optimal model Adj. R² ≈ **0.3141** (and comparable AIC/Adj R² variants are reported for comparison). :contentReference[oaicite:17]{index=17}  
 
-## Repository Contents
-Typical structure for this project (edit to match your actual repo):
